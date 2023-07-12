@@ -2,10 +2,10 @@
 <?compositeMetadataRepository version='1.0.0'?>
 <repository name='Resolute Snapshots' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1689182667481'/>
+    <property name='p2.timestamp' value='1689182807686'/>
     <property name='p2.atomic.composite.loading' value='true'/>
   </properties>
-  <children size='11'>
+  <children size='10'>
     <child location='4.3.0.202306231933'/>
     <child location='4.3.0.202306232039'/>
     <child location='4.3.0.202306261253'/>
@@ -14,7 +14,6 @@
     <child location='4.3.0.202306271523'/>
     <child location='4.3.0.202306271817'/>
     <child location='4.3.0.202306271823'/>
-    <child location='4.0.0.202307121330'/>
     <child location='4.0.0.202307121353'/>
     <child location='4.0.1.202307121716'/>
   </children>
